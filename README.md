@@ -1,16 +1,19 @@
 # Movies
 Hola Aquí un Resumen. 
 
-Completado
+Completado:
+
 Arquitectura MVVM
 Front de la app.
 
-En proceso
+En proceso:
+
 Lista de y agregar una nueva película.
 Mostrar detalle. 
 
-No se alcanzó 
-Offline
+No se alcanzó:
+
+Offline.
 Las credenciales de las apis no se encuentran, por lo que no se pudo proceder a consumirlas. Para extraer el token access se ocupaba un ApiKey que no encontré en la documentación. 
 
 La solución para esta implementación es utilizar un patrón de diseño proxy en el cual en una clase se enlistan todos los llamados a las apis y estas estén implementadas a través de una interfaz (interactor) para mantener oculta la información de consumo de las apis.
