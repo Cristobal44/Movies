@@ -2,17 +2,14 @@
 Hola Aquí un Resumen. 
 
 Completado:
-
 Arquitectura MVVM
 Front de la app.
 
 En proceso:
-
 Lista de y agregar una nueva película.
 Mostrar detalle. 
 
 No se alcanzó:
-
 Offline.
 Las credenciales de las apis no se encuentran, por lo que no se pudo proceder a consumirlas. Para extraer el token access se ocupaba un ApiKey que no encontré en la documentación. 
 
